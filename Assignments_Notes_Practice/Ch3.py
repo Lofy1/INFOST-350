@@ -1,6 +1,6 @@
 
 #Lists
-print("------Chapter 2------")
+print("------Chapter 3------")
 print("This is in CHAPTOR 3 \n")
 
 #This is a list of specifcally bicycles 
@@ -99,3 +99,7 @@ print(List_2)
 numbers = [1, 2, 3]
 letters = ["a", "b", "c"]
 print(numbers + letters)
+
+
+Lists = [primes, List_1]
+print(Lists)
